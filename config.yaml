@@ -1,0 +1,12 @@
+product: TB800G4
+# for ac cycle
+# PDU_Inlet: [1,2]
+MLB:
+    - {index: 1, image: tb800g4_0f, version: 0f}
+    - {index: 1, image: tb800g4_0f, version: 0f}
+2BP:
+    - {index: 2, image: dfasaf, version: 0f}
+    - {index: 2, image: dfasaf, version: 0f}
+12BP:
+    - {index: 3, image: dasfe}
+    - {index: 3, image: dasfe}
